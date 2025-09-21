@@ -9,3 +9,7 @@ Answer: E-commerce. Data science could be used to personalize recommendations.
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging links the history of branches, while rebasing creates new commits for the commits of the original branch. Merging results in a branching history that eventually joins together again, while rebasing results in one linear branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning about data science!
